@@ -5,4 +5,4 @@
 
 Caso queira ver o site de forma prática, acesse o link abaixo: 
 
-https://aragao21.github.io/Alura_Plus/
+https://alura-plus-orpin.vercel.app/
